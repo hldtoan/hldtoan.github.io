@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Toan Huynh"
+title                    : "Toan L.D. Huynh"
 title_separator          : "-"
 name                     : &name "Toan L.D. Huynh"
 description              : &description "personal description"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Toan L.D. Huynh"
   avatar           : "profile.png"
-  bio              : "Economist/Assistant Professor"
+  bio              : "Assistant Professor in Applied Macroeconomic Analysis"
   location         : "London"
   employer         : "Queen Mary University of London"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "t.huynh@qmul.ac.uk"
   uri              :
   bitbucket        :
